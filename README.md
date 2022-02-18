@@ -17,7 +17,7 @@
   <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
-  ##
+  <hr>
   
   <div>
     <!--<a href="https://instagram.com/m4theus_mello" target="_blank">

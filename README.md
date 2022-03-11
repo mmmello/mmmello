@@ -25,7 +25,7 @@
     <a href = "mailto:matheusmello142012@gmail.com" target="_blank">
       <img title="matheusmello142012@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/matheus-mello-011365221/" target="_blank">
+    <a href="www.linkedin.com/in/matheus-mello-da-silva" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </div>
